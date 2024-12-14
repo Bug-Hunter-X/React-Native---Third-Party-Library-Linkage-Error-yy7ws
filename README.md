@@ -1,0 +1,3 @@
+# React Native - Third-Party Library Linkage Error
+
+This repository demonstrates a common yet often subtle issue in React Native development: problems integrating third-party libraries. The error manifests as unexpected application behavior, crashes, or build failures. This is often linked to issues with native modules or incorrect dependency management.  The example focuses on a hypothetical mapping library, but the principles apply to many third-party packages.  The solution involves careful attention to library documentation, dependency resolution, and appropriate linking methods.
